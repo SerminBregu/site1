@@ -62,6 +62,7 @@
 @media (min-device-width : 320px) and (max-device-width : 480px){
 	/*Smartphone*/
 	
+	
 }
 @media (min-device-width : 768px) and (max-device-width : 1024px){
 	/*Tablet*/
@@ -785,7 +786,7 @@
         margin-left: -20px
     }
     .container-fluid {
-        padding: 0
+        padding: 3
     }
     .dl-horizontal dt {
         float: none;

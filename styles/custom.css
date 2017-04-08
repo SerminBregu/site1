@@ -186,6 +186,20 @@ img {max-width:100%;height:auto;width:auto;-moz-box-sizing:border-box;-webkit-bo
 .box{
 	text-align: center;
 	margin-bottom: 30px;
+	border: none;
+    
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+}
+
+.shadowef:hover{
+	box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 67px 50px 0 rgba(0,0,0,0.19);
 }
 
 .box i{
@@ -307,7 +321,7 @@ h1 {font-weight: normal; font-style: normal; letter-spacing: 0px; line-height: 6
 	background-repeat: repeat repeat;
 }
 
-.divPanel {padding: 40px;;;;}
+.divPanel {padding: 5px;;;;}
 
 #divFooter a {color: rgb(224, 95, 3); font-size: 13px; font-family: 'Open Sans', sans-serif;}
 
@@ -349,7 +363,7 @@ a.btn, a.btn-large, a.btn-small, a.btn-mini {color:#333}
 
 #headerSeparator{margin-top: 0px; border-top-color: rgb(51, 51, 51); border-top-width: 0px; border-top-style: solid;}
 
-h3,.page-content h3 a {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; font-size: 28px; line-height: 50px;}
+h3,.page-content h3 a {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; font-size: 22px; line-height: 50px;}
 
 h4,.page-content h4 a {font-weight: normal; font-style: normal; font-family: 'Source Sans Pro', sans-serif; font-size: 21px; line-height: 50px;}
 
